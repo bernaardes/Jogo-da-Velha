@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+.botao{
+    padding-top: 10px;
+    padding-left: 10%;
+    
+}
+input{
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+}
+h1{
+    font-size: 5rem;
+}
+button{
+    font-size: 20px;
+}
+a:link{
+    text-decoration: none;
+}
+a{
+    color: black;
+}
